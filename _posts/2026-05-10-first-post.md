@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-date: 2026-05-10
+date: 2025-05-10
 description: "Getting the blog started"
 ---
 
