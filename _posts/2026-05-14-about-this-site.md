@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About This Site"
-date: 2026-05-14
+date: 2025-05-14
 description: "How and why this site is built the way it is"
 ---
 
