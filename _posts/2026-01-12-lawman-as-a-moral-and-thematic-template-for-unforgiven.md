@@ -26,9 +26,7 @@ For that reason, I see *Lawman* as part of the long road that leads to *Unforgiv
 
 **The remake claim**
 
-Some critics and reviewers at the time of its release described *Lawman* as a remake of *Man with the Gun* (1955), the Robert Mitchum western directed by Richard Wilson, on the basis that both films feature a hard, uncompromising lawman whose rigid pursuit of order turns him into a disruptive and ultimately destructive force in the town he enters. That claim is lazy and naive, and the reasons why are instructive about how to think about *Lawman*'s place in the western tradition more generally. At best, that description is loose and misleading. Once a film is reduced to a thin synopsis like "a hard, uncompromising lawman enters a town and his rigid pursuit of order turns him into a disruptive, violent force," one is no longer describing a specific film at all. One is describing a major western pattern.
-
-That is precisely the problem with this kind of remake logic. It mistakes shared dramatic skeletons for direct lineage.
+Some critics and reviewers at the time of its release described *Lawman* as a remake of *Man with the Gun* (1955), the Robert Mitchum western directed by Richard Wilson, on the basis that both films feature a hard, uncompromising lawman whose rigid pursuit of order turns him into a disruptive and ultimately destructive force in the town he enters. That claim is lazy and naive, and the reasons why are instructive about how to think about *Lawman*'s place in the western tradition more generally. At best, that description is loose and misleading. Once a film is reduced to a thin synopsis like "a hard, uncompromising lawman enters a town and his rigid pursuit of order turns him into a disruptive, violent force," we are no longer describing a specific film at all.
 
 **Maddox and Tollinger — an inversion**
 
