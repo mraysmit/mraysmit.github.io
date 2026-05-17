@@ -6,7 +6,7 @@ description: "Notes on how Lawman anticipates the moral and thematic concerns la
 
 ---
 
-## 2. Introduction
+## 1. Introduction
 
 After more than two dozen viewings over twenty years, I have come to think that *Lawman* (1971) is one of the most underrated American westerns of its period. It is a surprisingly bleak, intelligent, cold-blooded film that sits in that important transition point between the older studio western and the harsher revisionist western of the 1970s. It lacks the mythic reputation of films like *The Wild Bunch*, *McCabe & Mrs. Miller*, or *Pat Garrett and Billy the Kid*, and it is nowhere near as canonised as the major Ford, Hawks, Leone, or Eastwood westerns. Part of the reason for that is the director. Michael Winner is not a name that gets mentioned alongside Peckinpah, Altman, or Penn when the revisionist western is discussed, and with good reason — his career trajectory toward the *Death Wish* films and beyond does not suggest a serious auteur of the genre. Yet in some ways *Lawman* is more disciplined than several better-known revisionist westerns, and the fact that it achieves what it does despite rather than because of its director makes the achievement more interesting, not less. The moral force of the film lives in Wilson's screenplay and in the performances — above all Lancaster's — rather than in any directorial vision. It is tight, bitter, nasty, and thematically very clear.
 
